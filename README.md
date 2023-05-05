@@ -6,7 +6,7 @@
 
 This a dictionary of the important chemical formulae which you can learn easyliy. This dictionary is made with HTML, CSS and Javascript. I used CSS - to design the template of the website and Javascript - to develop backend , the Javascript help in searching the contents in the table. I have used transitions to look it more attractive and animated. I hope you will like it .
 
-[Click here to open the project](https://linktodocumentation)
+[Click here to open the project](https://marotikadam2007.github.io/Chemistry-formula-dictionary/)
 
 
 

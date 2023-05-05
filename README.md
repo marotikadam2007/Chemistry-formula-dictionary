@@ -18,5 +18,5 @@ This a dictionary of the important chemical formulae which you can learn easyliy
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](customerImage.png)
 

@@ -23,7 +23,7 @@ This a dictionary of the important chemical formulae which you can learn easyliy
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](Resume orignal.pdf)
+[![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marotikadam2007.blogspot.com/)
 [![linkedin](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 [![twitter](https://img.shields.io/badge/Instagram-bf00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
